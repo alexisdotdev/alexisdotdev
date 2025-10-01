@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AstroJS, NextJS,**
 
-- 👨‍💻 All of my projects are available at [https://alexisramos.dev/](https://alexisramos.dev/)
+- 👨‍💻 All of my projects are available at [https://alexisramos.build/](https://alexisramos.build/)
 
 - 💬 Ask me about **Vanilla JS, React, Angula, Tailwind etc...**
 
